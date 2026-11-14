@@ -1,7 +1,4 @@
 # Powe Iteration Eigen Value Solver From Scratch
-![Python](https://shields.io)
-![Dependencies](https://shields.io)
-![Topic](https://shields.io)
 
 A zero-dependency, pure-Python implementation of the **Power Iteration Algorithm** engineered from first principles to compute the dominant eigenvalue (\(\lambda_1\)) of any square \(n \times n\) matrix—without relying on `numpy`, `scipy`, or external linear algebra libraries.
 
@@ -48,7 +45,6 @@ Tested against a dense \(5 \times 5\) matrix that cannot be solved via closed-fo
 git clone https://github.com
 cd Power-Iteration-Eigenvalue-Solver
 ```
-*(Note: Update the repository slug in the URL above if you chose a different repository name on GitHub.)*
 
 ### 2. Run the Solver
 ```bash
