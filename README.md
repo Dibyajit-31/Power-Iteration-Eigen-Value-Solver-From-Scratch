@@ -1,4 +1,4 @@
-# Powe Iteration Eigen Value Solver From Scratch
+# Power Iteration Eigen Value Solver From Scratch
 
 A zero-dependency, pure-Python implementation of the **Power Iteration Algorithm** engineered from first principles to compute the dominant eigenvalue (\(\lambda_1\)) of any square \(n \times n\) matrix—without relying on `numpy`, `scipy`, or external linear algebra libraries.
 
