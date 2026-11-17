@@ -2,11 +2,6 @@ def make_matrix(n):
     '''This is a function that would let you make a nxn matrix'''
     m = []
     for i in range(n):
-        # l = []
-        # for j in range(n):
-        #     num = int(input(f"Enter an integer for the position {i+1},{j+1}: "))
-        #     l.append(num)
-        # m.append(l)
         row = list(map(int, input(f"Enter {i+1} row: ").split()))
         m.append(row)
     return m
